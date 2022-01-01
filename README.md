@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ![header](https://github.com/rajeshkumar2024/rajeshkumar2024/blob/main/banner.png) -->
 
 <div align="center">
-  <h1> 𝐇𝐞𝐥𝐥𝐨 Rajesh here 👋</h1> 
+  <h1> 𝐇𝐞𝐥𝐥𝐨 I'm Rajesh Kumar👋</h1> 
+  </br>
+
   <h3 align="center">A curious developer trying to figure out my way through web development & open-source 👩‍💻 </h3>
   <br>
   <img align="right" alt="width="400" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp">
@@ -37,6 +39,20 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align=left>
+
+  <br><br>
+
+  ## Connect with me:
+
+  <p>
+    <a href="https://www.linkedin.com/in/rajesh-kumar2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajesh-kumar2024/" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/rajrk2024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rajrk2024" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/rajrk2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rajrk2024" height="30" width="40" /></a>
+    <a href="https://www.hackerearth.com/users/rajesh.raj2356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/rajrk2024" height="30" width="40" /></a>
+  </p>
+</div>
+
 <div align="center">
   <br><br>
   
@@ -53,6 +69,8 @@ Here are some ideas to get you started:
 
 </div>
 
+
+
 <div align=left>
 
   <br><br>
@@ -60,6 +78,7 @@ Here are some ideas to get you started:
   ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
   <p>
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -67,8 +86,6 @@ Here are some ideas to get you started:
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -80,19 +97,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align=left>
 
-  <br><br>
-
-  ## Connect with me:
-
-  <p>
-    <a href="https://www.linkedin.com/in/rajesh-kumar2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajesh-kumar2024/" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/rajrk2024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rajrk2024" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/rajrk2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rajrk2024" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/users/rajesh.raj2356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/rajrk2024" height="30" width="40" /></a>
-  </p>
-</div>
 
 
 <div align=center>
@@ -109,4 +114,22 @@ Here are some ideas to get you started:
 
 </div>
 
+<div  aligh= centre>
+  <br>
+
+  ## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=QuizApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=Basic_Bank&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+
+</div>
 
