@@ -119,15 +119,15 @@ Here are some ideas to get you started:
 
   ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/rajeshkumar2024/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=QuizApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+<a href="https://github.com/rajeshkumar2024/QuizApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=QuizApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="QuizApp" />
 </a>
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=Basic_Bank&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+<a href="https://github.com/rajeshkumar2024/Basic_Bank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=Basic_Bank&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Basic_Bank" />
 </a>
 
 
