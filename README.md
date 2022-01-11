@@ -119,15 +119,29 @@ Here are some ideas to get you started:
 
   ## 🗂️ Highlight Projects
 
-<a href="https://github.com/rajeshkumar2024/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
+
+  
+  <a href="https://github.com/rajeshkumar2024/To-Do-List">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=To-Do-List&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="To-Do-List Application" />
 </a>
+  &nbsp
 
 <a href="https://github.com/rajeshkumar2024/QuizApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=QuizApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="QuizApp" />
 </a>
+  <br><br>
+  
+  <a href="https://github.com/rajeshkumar2024/Miwok-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=Miwok-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="To-Do-List Application" />
+</a>
+  &nbsp
+  
 <a href="https://github.com/rajeshkumar2024/Basic_Bank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=Basic_Bank&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Basic_Bank" />
+</a>
+  <br><br>
+  <a href="https://github.com/rajeshkumar2024/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar2024&repo=portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Portfolio" />
 </a>
 
 
