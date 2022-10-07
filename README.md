@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar2024&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumar2024" /> </p>
 <div align=left>
 
 
